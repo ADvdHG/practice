@@ -1,0 +1,10 @@
+#Ignore temporary files 
+*.tmp
+
+#Ignore folder with silly stuff
+silly/
+
+#Example of negating rule 
+#*.pdf 
+#!rules.pdf
+#ignroe all pdf files but the rules.pdf file 
